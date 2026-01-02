@@ -1,0 +1,1 @@
+# Device Tree For infinix Zero 5G (X6815B)
